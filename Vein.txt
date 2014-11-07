@@ -1,0 +1,7 @@
+"Vein"
+{
+	"base"			"base"
+	"title"			"Vein"
+	"maps"			"^rp_v_"
+	"menusystem" 	"1"
+}
